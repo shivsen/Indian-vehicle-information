@@ -1,0 +1,7 @@
+pandas
+PyPDF2
+requests
+streamlit
+
+
+-e .
